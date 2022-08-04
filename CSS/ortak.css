@@ -1,0 +1,29 @@
+*{
+    color: black;
+}
+a{
+    text-decoration: none;
+}
+
+#musicDukkani{
+    color: red;
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
+ul{
+    list-style: none;
+    
+    
+}
+li{
+    display: inline;
+    padding-right: 2em;
+   
+}
+
+#sayfaBaslıgı{
+    color:  chartreuse;
+    text-align: center;
+}
